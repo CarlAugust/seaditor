@@ -1,0 +1,4 @@
+Some colors
+
+2b5847 blue greenish rgb(43, 88, 71)
+eccc78 yellowish
