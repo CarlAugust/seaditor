@@ -1,9 +1,12 @@
 <script setup lang="ts">
+import TextEditor from './components/TextEditor.vue';
+import FileBox from './components/FileBox.vue';
 </script>
 
 <template>
-    <div>
-        <h1>This is me</h1>
+    <div class="flex h-screen">
+        <FileBox></FileBox>
+        <TextEditor></TextEditor>
     </div>
 </template>
 
